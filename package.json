@@ -1,0 +1,11 @@
+{
+  "name": "redonpm",
+  "version": "0.0.1",
+  "description": "Figuring out windows line endings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Primevara",
+  "license": "ISC"
+}
